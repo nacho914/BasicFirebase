@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21109965520",
+    "project_id": "kotlin-firebase-fcb3a",
+    "storage_bucket": "kotlin-firebase-fcb3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21109965520:android:ac2915a2bf7ef45886d4d5",
+        "android_client_info": {
+          "package_name": "com.example.basicfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21109965520-t5u9ubue58l7099589cop6hckdhmohfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJRNj-F5N461SLiMkTJW1kKQQHh_USp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21109965520-t5u9ubue58l7099589cop6hckdhmohfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
